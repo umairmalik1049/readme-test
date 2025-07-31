@@ -60,9 +60,9 @@
 
 &rarr; Mentions and References
 
-@username
-#123
-owner/repo#123
+@username <br />
+#123 <br />
+owner/repo#123 <br />
 
 ---
 
