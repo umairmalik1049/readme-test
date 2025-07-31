@@ -60,16 +60,9 @@
 
 &rarr; Mentions and References
 
-@username            ← Mention a user
-#123                 ← Reference an issue or pull request
-owner/repo#123       ← Cross-repo issue reference
-
----
-
-&rarr; Checklists in Issues/PRs
-
-- [ ] Review code
-- [x] Write tests
+@username
+#123
+owner/repo#123
 
 ---
 
