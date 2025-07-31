@@ -18,16 +18,20 @@
 
 ---
 
+&rarr; Task Lists
+
 - [x] Completed task
 - [ ] Incomplete task
 
 ---
 
+&rarr; Tables
+
 | Header 1 | Header 2 |
 |----------|----------|
 | Cell A   | Cell B   |
 
----
+&rarr; Tables (aligned content)
 
 | Left | Center | Right |
 |:-----|:------:|------:|
@@ -35,18 +39,26 @@
 
 ---
 
+&rarr; Highlighting for Code Blocks
+
  ```js function hello() { console.log("Hello, GitHub!"); } ```
 
  ---
+
+ &rarr; Fenced Code Blocks with Diff
 
 - This line was removed
 + This line was added
 
 ---
 
+&rarr; Emoji Support
+
 :rocket: :smile: :+1:
 
 ---
+
+&rarr; Mentions and References
 
 @username            ← Mention a user
 #123                 ← Reference an issue or pull request
@@ -54,24 +66,34 @@ owner/repo#123       ← Cross-repo issue reference
 
 ---
 
+&rarr; Checklists in Issues/PRs
+
 - [ ] Review code
 - [x] Write tests
 
 ---
 
+&rarr; Relative Links
+
 [Link to file](docs/readme-guide.md)
 
 ---
 
+&rarr; Images and SVGs
+
 ![Alt text](https://url/to/image.png)
 
 ---
+
+&rarr; HTML Support
 
 <p align="center">
   <img src="logo.png" width="200"/>
 </p>
 
 ---
+
+&rarr; Collapsible Sections
 
 <details>
 <summary>Click to expand</summary>
@@ -82,9 +104,13 @@ More content here...
 
 ---
 
+&rarr; Blockquotes
+
 > This is a blockquote.
 
 ---
+
+&rarr; Lists & Nesting
 
 - Item 1
   - Sub-item
